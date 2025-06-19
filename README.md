@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mattias — CEO & Co-founder at Compensara
 
-![fun-founder](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o4aGluYzB3bTdvb2cwNzN6dG5xbHR4c3FjM3Z5ZGlnY2FpbW9yMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F3HTg4c3ts7ji/giphy.gif)
+[![fun-founder](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o4aGluYzB3bTdvb2cwNzN6dG5xbHR4c3FjM3Z5ZGlnY2FpbW9yMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F3HTg4c3ts7ji/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFsYXQybGlqaTlmbXpxd3htengwdWY5dnhxNDlmNGd0eTh4cm8wZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rDeYzCwoZlvclPUhf9/giphy.gif)
 
 I'm building **[Compensara](https://compensara.com)** — the first end-to-end agentic compensation platform. We help companies ditch outdated spreadsheets and black-box benchmarks to make confident, transparent salary decisions.
 
