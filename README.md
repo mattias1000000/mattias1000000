@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mattias — CEO & Co-founder at Compensara
+# 👋 Hey, I'm Mattias
 
 ![Mattias GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRlaGdveTZqampreGF4bzVmNWt0dW5zaW92cHJnaDU0azc5Z25tNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rDeYzCwoZlvclPUhf9/giphy.gif)
 
@@ -20,9 +20,5 @@ I'm building **[Compensara](https://compensara.com)** — the first end-to-end a
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattias%20Lindell-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lindellmattias/)
-
----
-
-🧠 Always building. Always learning. Always aligning.
 
 *— Mattias*
