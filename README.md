@@ -8,16 +8,16 @@ I'm building **[Compensara](https://compensara.com)** — the first end-to-end a
 
 ---
 
-### 💼 Who am I?
+### Who am I?
 
-- 🚀 I'm the CEO — scaling Compensara with the support of a world-class CTO.
-- 🧠 Background in finance, obsessed with market signals and product loops.
-- 🐍 Love Python. Love UI/UX. Cannot bear a misalignment — visual, strategic, or structural.
-- 🎯 Believer in building products that feel obvious in hindsight.
+- I'm the CEO — scaling Compensara with the support of a world-class CTO.
+- Background in finance, obsessed with market signals and product loops.
+- Love Python. Love UI/UX. Cannot bear a misalignment — visual, strategic, or structural.
+- Believer in building products that feel obvious in hindsight.
 
 ---
 
-### 🔗 Connect with me
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattias%20Lindell-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lindellmattias/)
 
