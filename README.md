@@ -2,9 +2,7 @@
 
 ![Mattias GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRlaGdveTZqampreGF4bzVmNWt0dW5zaW92cHJnaDU0azc5Z25tNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rDeYzCwoZlvclPUhf9/giphy.gif)
 
-I'm building **[Openroll](https://openroll.com)** — the first end-to-end agentic compensation platform. We help companies ditch outdated spreadsheets and black-box benchmarks to make confident, transparent salary decisions.
-
-> ✨ Think: compensation intelligence with superpowers, built by people who *actually* get HR.
+I'm building **[Openroll](https://openroll.com)** — reimagining how People and Finance teams work, automate, and operate with AI.
 
 ---
 
